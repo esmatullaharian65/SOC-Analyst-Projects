@@ -1,2 +1,2 @@
-# Emoted PCAP Analysis
+# Emotet PCAP Analysis
 ## Tools Used     - Wireshark
