@@ -31,8 +31,11 @@ This persistent traffic pattern is a strong IOC for Emotet infection.
   
 ##  📂 Indicators of Compromise (IOCs)
 **Internal Host: 10.1.6.206**
+
 **C2 Server: 5.2.136.90**
+
 **Suspicious HTTP Paths: /7ub0ej2avlvnuvnyyo/szcmZnK/fzb067wy/**
+
 **User-Agent String: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E)**
 
 ## Conclusion
