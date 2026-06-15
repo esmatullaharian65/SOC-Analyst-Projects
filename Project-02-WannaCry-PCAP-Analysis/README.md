@@ -74,7 +74,7 @@ The endpoints table helped a lot. Seeing four internal IPs with almost identical
 ## Screenshots
 
 ### 1. SAM LOGON Requests (SMB)
-![SAM LOGON](https://github.com/esmatullaharian65/SOC-Analyst-Projects/blob/main/Project-02-WannaCry-PCAP-Analysis/1-%20smb-sam-logon%20.png.png)
+![SAM LOGON](1- smb-sam-logon .png)
 
 ### 2. Traffic from Infected Host
 ![Infected Host Traffic](2-infected-host-traffic.png)
